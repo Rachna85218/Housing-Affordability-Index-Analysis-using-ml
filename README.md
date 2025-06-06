@@ -30,4 +30,4 @@ This project analyzes housing affordability across global cities using data scra
 
 
 **Rachna Verma** – M.Sc. Data Science  
-🔗 GitHub: rachna@msds.christuniversity.in
+🔗 GitHub: Rachna85218
